@@ -1,7 +1,7 @@
 # gmm-clustering-classification
 Exploring Gaussian Mixture Models for clustering, classification, and digit generation using Python and scikit-learn.
 
-🧠 Gaussian Mixture Models: Clustering, Classification & Generation
+# 🧠 Gaussian Mixture Models: Clustering, Classification & Generation
 This project explores Gaussian Mixture Models (GMMs) through both synthetic and real-world datasets — starting with the classic two moons and scaling up to the MNIST handwritten digits dataset.
 
 Along the way, I applied concepts like dimensionality reduction, unsupervised learning, generative modeling, and model selection techniques. This wasn't just about getting code to run — it was about understanding why and how these models work in different settings.
