@@ -6,8 +6,9 @@ This project explores Gaussian Mixture Models (GMMs) through both synthetic and 
 
 Along the way, I applied concepts like dimensionality reduction, unsupervised learning, generative modeling, and model selection techniques. This wasn't just about getting code to run — it was about understanding why and how these models work in different settings.
 
-🔍 What this project covers
-1. Clustering with GMM on Two Moons: 
+# 🔍 What this project covers
+1. Clustering with GMM on Two Moons:
+   
 Used make_moons() to simulate non-linear cluster data
 
 Trained GMM with 2 components to fit the data
@@ -46,7 +47,7 @@ Compared supervised vs. unsupervised GMMs using BIC
 
 Evaluated GMM-generated labels using a Gradient Boosting Classifier
 
-💻 Technologies & Libraries: 
+# 💻 Technologies & Libraries: 
 Python
 
 scikit-learn (GMM, PCA, GridSearchCV, silhouette score, classification models)
@@ -55,7 +56,7 @@ matplotlib and seaborn for visualization
 
 numpy for matrix operations and probability calculations
 
-📈 What I practiced & learned: 
+# 📈 What I practiced & learned: 
 
 How to tune unsupervised models using real validation metrics
 
